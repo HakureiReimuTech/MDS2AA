@@ -10,7 +10,7 @@ def main():
     input_file = sys.argv[1]
     
     # 调制参数
-    carrier_freq = 94000     # 载波频率（Hz）
+    carrier_freq = 22500     # 载波频率（Hz）
     sample_rate = 192000    # 采样率（Hz）
     amplitude = 0.7         # 振幅系数（0到1）
     
