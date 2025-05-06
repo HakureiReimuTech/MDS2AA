@@ -1,4 +1,4 @@
-# MSD2AA Modulate Digital Signal to Analog Audio Project
+# Modulate Digital Signal to Analog Audio Project
 顾名思义，本程序用于将数字信号调制成模拟信号
 你可以把你的文件记录在音频磁带上，也可以通过电话与你的好友共享文件！
 ### 这是一个实验项目，不要让他成为数据的唯一副本！我们不会承担由于使用本程序导致的任何责任！
