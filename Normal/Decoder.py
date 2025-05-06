@@ -10,7 +10,7 @@ def main():
     input_wav = sys.argv[1]
     
     # 调制参数（需与调制程序一致）
-    carrier_freq = 94000           # 载波频率（Hz）
+    carrier_freq = 22500           # 载波频率（Hz）
     sample_rate = 192000        # 采样率（Hz）
     samples_per_half_cycle = sample_rate // (2 * carrier_freq)  # 每半周期样本数
     
