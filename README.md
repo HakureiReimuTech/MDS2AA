@@ -11,6 +11,6 @@
 ![ ](https://i.miji.bid/2025/05/06/f1b57cbc9c201e4421e9b686b82535fc.png)
 ![ ](https://i.miji.bid/2025/05/06/76d813736b06e2b3fe208c3cd14353bf.png)
 ## 纠错
-Encoder/Decoder默认不使用任何纠错
-HEncoder/Hdecoder使用汉明码作为纠错方式
-LDPC-Encoder/LDPC-Decoder使用LDPC作为纠错方式（实验性）
+Encoder/Decoder默认不使用任何纠错<br>
+HEncoder/Hdecoder使用汉明码作为纠错方式<br>
+LDPC-Encoder/LDPC-Decoder使用LDPC作为纠错方式（实验性）<br>
