@@ -1,6 +1,6 @@
-# Modulate Digital Signal to Analog Audio Project
-顾名思义，本程序用于将数字信号调制成模拟信号
-你可以把你的文件记录在音频磁带上，也可以通过电话与你的好友共享文件！
+![2b1ba0d3c0c6219edc2c2df2281691df455443751](https://github.com/user-attachments/assets/b35e18d1-8cdb-4eeb-9fd8-008525ae767a)# Modulate Digital Signal to Analog Audio Project
+顾名思义，本程序用于将数字信号调制成模拟信号<br>
+你可以把你的文件记录在音频磁带上，也可以通过电话或无线电与你的好友共享文件！
 #### 这是一个实验项目，不要让他成为数据的唯一副本！我们不会承担使用本程序产生的任何损失！
 ## 原理
 使用正弦波正半周表示1，负半周表示0，该方式更能够忍耐抖动（例如磁带）
