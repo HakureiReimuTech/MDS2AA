@@ -8,12 +8,12 @@
 ``python Decoder.py N.wav``<br>
 ## 原理
 使用正弦波正半周表示1，负半周表示0，该方式更能够忍耐抖动（例如磁带）<br>
-![原理图1](https://i.miji.bid/2025/05/06/701a338f3d73369bbfb68622ee85afb6.png)
+![原理图1](https://i.miji.bid/2025/05/06/701a338f3d73369bbfb68622ee85afb6.png)<br>
 该程序可将数据记录在磁带上，也可用于在电话线或无线电中传输数据，相比于KCS等协议，这个程序的频率高，抗干扰性能更强，速度更快，而且更能够忍受抖动<br>
 ## 修改
 出于测试目的，程序默认的频率仅为20Hz，可以自行调整<br>
-![ ](https://i.miji.bid/2025/05/06/f1b57cbc9c201e4421e9b686b82535fc.png)
-![ ](https://i.miji.bid/2025/05/06/76d813736b06e2b3fe208c3cd14353bf.png)
+![ ](https://i.miji.bid/2025/05/06/f1b57cbc9c201e4421e9b686b82535fc.png)<br>
+![ ](https://i.miji.bid/2025/05/06/76d813736b06e2b3fe208c3cd14353bf.png)<br>
 ## 纠错
 Encoder/Decoder默认不使用任何纠错<br>
 HEncoder/Hdecoder使用汉明码作为纠错方式<br>
